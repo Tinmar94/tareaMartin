@@ -20,8 +20,16 @@ header {
 }
 header::before{
     background-image: url("https://as1.ftcdn.net/v2/jpg/04/81/39/40/1000_F_481394004_83YBZm0XDW7fp5jXLF6viVr0O5UfPrM4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
     filter: blur(4px);
-    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; 
 }
 h1 {
     margin: 0;
@@ -143,8 +151,16 @@ footer {
 }
 footer::before {
     background-image: url("https://as1.ftcdn.net/v2/jpg/04/81/39/40/1000_F_481394004_83YBZm0XDW7fp5jXLF6viVr0O5UfPrM4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
     filter: blur(4px);
-    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; 
 }
 /* Para las animaciones */
 .ocultar {
