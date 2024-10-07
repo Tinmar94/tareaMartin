@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    
+    position: relative;
     font-color: black;
     padding: 20px 0;
     text-align: center;
@@ -145,6 +145,7 @@ nav a:hover {
 }
 
 footer {
+    position: relative;
     font-color: black;
     text-align: center;
     padding: 20px 0;
