@@ -14,8 +14,8 @@ body {
 
 header {
     background-image: url("https://as1.ftcdn.net/v2/jpg/04/81/39/40/1000_F_481394004_83YBZm0XDW7fp5jXLF6viVr0O5UfPrM4.jpg");
-    filter: grayscale(100%) blur(5px);
-    color: #fff;
+    filter: grayscale(100%) blur(4px);
+    font-color: black;
     padding: 20px 0;
     text-align: center;
 }
@@ -135,8 +135,8 @@ nav a:hover {
 
 footer {
     background-image: url("https://as1.ftcdn.net/v2/jpg/04/81/39/40/1000_F_481394004_83YBZm0XDW7fp5jXLF6viVr0O5UfPrM4.jpg");
-    filter: grayscale(100%) blur(5px);
-    color: #fff;
+    filter: grayscale(100%) blur(4px);
+    font-color: black;
     text-align: center;
     padding: 20px 0;
 }
